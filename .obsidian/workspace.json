@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "c2caafd020e4f4be",
+    "type": "split",
+    "children": [
+      {
+        "id": "fce12dadd24e8239",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9b681a5080d3750",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "obsidian_thesis_notes/2024-11-19.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (2024-11-19)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8f6b7d779ffd80b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a0ad8632b36164e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7518dfe0e8986b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c0b42be42de85c8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8f9f5108e274770e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2ae66d171957e209",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8d842ccb1873dd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41ac71add83dcc5d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Improvements to RAG.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Improvements to RAG"
+            }
+          },
+          {
+            "id": "751c2327ddb9aec2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Improvements to RAG.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Improvements to RAG"
+            }
+          },
+          {
+            "id": "f63ee54fbdaa8ec6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5437d2fc9bf906ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Improvements to RAG.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Improvements to RAG"
+            }
+          },
+          {
+            "id": "b82c2815c1bad9c8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b82c2815c1bad9c8",
+  "lastOpenFiles": [
+    "Survey Papers.md",
+    "Improvements to RAG.md",
+    "Evaluation Metrics.md",
+    "Basics.md",
+    "Questions.md",
+    "Seminar Paper Summary (fuck me).md",
+    "2024-11-19.md"
+  ]
+}
